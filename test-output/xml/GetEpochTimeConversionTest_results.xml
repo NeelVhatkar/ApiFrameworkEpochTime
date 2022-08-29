@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EpochTime"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.310">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getCurrentDateFromEpochServer"
+                time="3.307"
+                classname="GetEpochTimeConversionTest">
+            </testcase>
+            <testcase
+                name="verifyDateTimeResponse"
+                time="0.003"
+                classname="GetEpochTimeConversionTest">
+            </testcase>
+</testsuite>
